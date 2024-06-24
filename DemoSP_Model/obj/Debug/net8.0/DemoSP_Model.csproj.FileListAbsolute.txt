@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Demo_SP\DemoSP_Model\bin\Debug\net8.0\DemoSP_Model.deps.json
+C:\Users\User\source\repos\Demo_SP\DemoSP_Model\bin\Debug\net8.0\DemoSP_Model.dll
+C:\Users\User\source\repos\Demo_SP\DemoSP_Model\bin\Debug\net8.0\DemoSP_Model.pdb
+C:\Users\User\source\repos\Demo_SP\DemoSP_Model\obj\Debug\net8.0\DemoSP_Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Demo_SP\DemoSP_Model\obj\Debug\net8.0\DemoSP_Model.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Demo_SP\DemoSP_Model\obj\Debug\net8.0\DemoSP_Model.AssemblyInfo.cs
+C:\Users\User\source\repos\Demo_SP\DemoSP_Model\obj\Debug\net8.0\DemoSP_Model.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Demo_SP\DemoSP_Model\obj\Debug\net8.0\DemoSP_Model.dll
+C:\Users\User\source\repos\Demo_SP\DemoSP_Model\obj\Debug\net8.0\refint\DemoSP_Model.dll
+C:\Users\User\source\repos\Demo_SP\DemoSP_Model\obj\Debug\net8.0\DemoSP_Model.pdb
+C:\Users\User\source\repos\Demo_SP\DemoSP_Model\obj\Debug\net8.0\ref\DemoSP_Model.dll

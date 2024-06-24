@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Demo_SP\DemoDP_Repository\bin\Debug\net8.0\DemoDP_Repository.deps.json
+C:\Users\User\source\repos\Demo_SP\DemoDP_Repository\bin\Debug\net8.0\DemoDP_Repository.dll
+C:\Users\User\source\repos\Demo_SP\DemoDP_Repository\bin\Debug\net8.0\DemoDP_Repository.pdb
+C:\Users\User\source\repos\Demo_SP\DemoDP_Repository\bin\Debug\net8.0\DemoSP_DbContext.dll
+C:\Users\User\source\repos\Demo_SP\DemoDP_Repository\bin\Debug\net8.0\DemoSP_Model.dll
+C:\Users\User\source\repos\Demo_SP\DemoDP_Repository\bin\Debug\net8.0\DemoSP_DbContext.pdb
+C:\Users\User\source\repos\Demo_SP\DemoDP_Repository\bin\Debug\net8.0\DemoSP_Model.pdb
+C:\Users\User\source\repos\Demo_SP\DemoDP_Repository\obj\Debug\net8.0\DemoDP_Repository.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Demo_SP\DemoDP_Repository\obj\Debug\net8.0\DemoDP_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Demo_SP\DemoDP_Repository\obj\Debug\net8.0\DemoDP_Repository.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Demo_SP\DemoDP_Repository\obj\Debug\net8.0\DemoDP_Repository.AssemblyInfo.cs
+C:\Users\User\source\repos\Demo_SP\DemoDP_Repository\obj\Debug\net8.0\DemoDP_Repository.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Demo_SP\DemoDP_Repository\obj\Debug\net8.0\DemoDP_R.2B3DA01E.Up2Date
+C:\Users\User\source\repos\Demo_SP\DemoDP_Repository\obj\Debug\net8.0\DemoDP_Repository.dll
+C:\Users\User\source\repos\Demo_SP\DemoDP_Repository\obj\Debug\net8.0\refint\DemoDP_Repository.dll
+C:\Users\User\source\repos\Demo_SP\DemoDP_Repository\obj\Debug\net8.0\DemoDP_Repository.pdb
+C:\Users\User\source\repos\Demo_SP\DemoDP_Repository\obj\Debug\net8.0\ref\DemoDP_Repository.dll

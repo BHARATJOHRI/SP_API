@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Demo_SP\DemoSP_Infrastructure\bin\Debug\net8.0\DemoSP_Infrastructure.deps.json
+C:\Users\User\source\repos\Demo_SP\DemoSP_Infrastructure\bin\Debug\net8.0\DemoSP_Infrastructure.dll
+C:\Users\User\source\repos\Demo_SP\DemoSP_Infrastructure\bin\Debug\net8.0\DemoSP_Infrastructure.pdb
+C:\Users\User\source\repos\Demo_SP\DemoSP_Infrastructure\obj\Debug\net8.0\DemoSP_Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Demo_SP\DemoSP_Infrastructure\obj\Debug\net8.0\DemoSP_Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Demo_SP\DemoSP_Infrastructure\obj\Debug\net8.0\DemoSP_Infrastructure.AssemblyInfo.cs
+C:\Users\User\source\repos\Demo_SP\DemoSP_Infrastructure\obj\Debug\net8.0\DemoSP_Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Demo_SP\DemoSP_Infrastructure\obj\Debug\net8.0\DemoSP_Infrastructure.dll
+C:\Users\User\source\repos\Demo_SP\DemoSP_Infrastructure\obj\Debug\net8.0\refint\DemoSP_Infrastructure.dll
+C:\Users\User\source\repos\Demo_SP\DemoSP_Infrastructure\obj\Debug\net8.0\DemoSP_Infrastructure.pdb
+C:\Users\User\source\repos\Demo_SP\DemoSP_Infrastructure\obj\Debug\net8.0\ref\DemoSP_Infrastructure.dll

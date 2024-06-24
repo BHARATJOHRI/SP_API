@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Demo_SP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42F6B7DC-19DB-4BC9-9DF8-965FDB81CAF9}|DemoSP_DataService\\DemoSP_DataService.csproj|c:\\users\\user\\source\\repos\\demo_sp\\demosp_dataservice\\empdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F6B7DC-19DB-4BC9-9DF8-965FDB81CAF9}|DemoSP_DataService\\DemoSP_DataService.csproj|solutionrelative:demosp_dataservice\\empdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F6B7DC-19DB-4BC9-9DF8-965FDB81CAF9}|DemoSP_DataService\\DemoSP_DataService.csproj|c:\\users\\user\\source\\repos\\demo_sp\\demosp_dataservice\\interface\\iempdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42F6B7DC-19DB-4BC9-9DF8-965FDB81CAF9}|DemoSP_DataService\\DemoSP_DataService.csproj|solutionrelative:demosp_dataservice\\interface\\iempdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D151268-1063-4917-975E-E1A674B8E77D}|DemoDP_Repository\\DemoDP_Repository.csproj|c:\\users\\user\\source\\repos\\demo_sp\\demodp_repository\\emprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D151268-1063-4917-975E-E1A674B8E77D}|DemoDP_Repository\\DemoDP_Repository.csproj|solutionrelative:demodp_repository\\emprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D151268-1063-4917-975E-E1A674B8E77D}|DemoDP_Repository\\DemoDP_Repository.csproj|c:\\users\\user\\source\\repos\\demo_sp\\demodp_repository\\dapperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D151268-1063-4917-975E-E1A674B8E77D}|DemoDP_Repository\\DemoDP_Repository.csproj|solutionrelative:demodp_repository\\dapperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7ECF54-79FF-4C2C-A188-9704CD291B52}|DemoSP_DbContext\\DemoSP_DbContext.csproj|c:\\users\\user\\source\\repos\\demo_sp\\demosp_dbcontext\\sqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7ECF54-79FF-4C2C-A188-9704CD291B52}|DemoSP_DbContext\\DemoSP_DbContext.csproj|solutionrelative:demosp_dbcontext\\sqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7ECF54-79FF-4C2C-A188-9704CD291B52}|DemoSP_DbContext\\DemoSP_DbContext.csproj|c:\\users\\user\\source\\repos\\demo_sp\\demosp_dbcontext\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7ECF54-79FF-4C2C-A188-9704CD291B52}|DemoSP_DbContext\\DemoSP_DbContext.csproj|solutionrelative:demosp_dbcontext\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7ECF54-79FF-4C2C-A188-9704CD291B52}|DemoSP_DbContext\\DemoSP_DbContext.csproj|c:\\users\\user\\source\\repos\\demo_sp\\demosp_dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7ECF54-79FF-4C2C-A188-9704CD291B52}|DemoSP_DbContext\\DemoSP_DbContext.csproj|solutionrelative:demosp_dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C975AFAF-F18D-4068-8873-EC7979342299}|Demo_SP\\Demo_SP.csproj|c:\\users\\user\\source\\repos\\demo_sp\\demo_sp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C975AFAF-F18D-4068-8873-EC7979342299}|Demo_SP\\Demo_SP.csproj|solutionrelative:demo_sp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C975AFAF-F18D-4068-8873-EC7979342299}|Demo_SP\\Demo_SP.csproj|c:\\users\\user\\source\\repos\\demo_sp\\demo_sp\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C975AFAF-F18D-4068-8873-EC7979342299}|Demo_SP\\Demo_SP.csproj|solutionrelative:demo_sp\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D151268-1063-4917-975E-E1A674B8E77D}|DemoDP_Repository\\DemoDP_Repository.csproj|c:\\users\\user\\source\\repos\\demo_sp\\demodp_repository\\irepository\\idapperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D151268-1063-4917-975E-E1A674B8E77D}|DemoDP_Repository\\DemoDP_Repository.csproj|solutionrelative:demodp_repository\\irepository\\idapperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D151268-1063-4917-975E-E1A674B8E77D}|DemoDP_Repository\\DemoDP_Repository.csproj|c:\\users\\user\\source\\repos\\demo_sp\\demodp_repository\\irepository\\iemprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D151268-1063-4917-975E-E1A674B8E77D}|DemoDP_Repository\\DemoDP_Repository.csproj|solutionrelative:demodp_repository\\irepository\\iemprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB159CAC-424A-419E-8FA6-BF9C05EA0B50}|DemoSP_Model\\DemoSP_Model.csproj|c:\\users\\user\\source\\repos\\demo_sp\\demosp_model\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB159CAC-424A-419E-8FA6-BF9C05EA0B50}|DemoSP_Model\\DemoSP_Model.csproj|solutionrelative:demosp_model\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C975AFAF-F18D-4068-8873-EC7979342299}|Demo_SP\\Demo_SP.csproj|c:\\users\\user\\source\\repos\\demo_sp\\demo_sp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C975AFAF-F18D-4068-8873-EC7979342299}|Demo_SP\\Demo_SP.csproj|solutionrelative:demo_sp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C975AFAF-F18D-4068-8873-EC7979342299}|Demo_SP\\Demo_SP.csproj|c:\\users\\user\\source\\repos\\demo_sp\\demo_sp\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C975AFAF-F18D-4068-8873-EC7979342299}|Demo_SP\\Demo_SP.csproj|solutionrelative:demo_sp\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7ECF54-79FF-4C2C-A188-9704CD291B52}|DemoSP_DbContext\\DemoSP_DbContext.csproj|c:\\users\\user\\source\\repos\\demo_sp\\demosp_dbcontext\\interface\\idbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7ECF54-79FF-4C2C-A188-9704CD291B52}|DemoSP_DbContext\\DemoSP_DbContext.csproj|solutionrelative:demosp_dbcontext\\interface\\idbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Demo_SP\\DemoSP_Model\\Entity\\Employee.cs",
+              "RelativeDocumentMoniker": "DemoSP_Model\\Entity\\Employee.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Demo_SP\\DemoSP_Model\\Entity\\Employee.cs",
+              "RelativeToolTip": "DemoSP_Model\\Entity\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T17:39:12.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Demo_SP\\Demo_SP\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Demo_SP\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Demo_SP\\Demo_SP\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Demo_SP\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:50:43.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SqlDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Demo_SP\\DemoSP_DbContext\\SqlDBContext.cs",
+              "RelativeDocumentMoniker": "DemoSP_DbContext\\SqlDBContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Demo_SP\\DemoSP_DbContext\\SqlDBContext.cs",
+              "RelativeToolTip": "DemoSP_DbContext\\SqlDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:56:38.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Demo_SP\\Demo_SP\\appsettings.json",
+              "RelativeDocumentMoniker": "Demo_SP\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Demo_SP\\Demo_SP\\appsettings.json",
+              "RelativeToolTip": "Demo_SP\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-09T14:20:12.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Demo_SP\\DemoSP_DbContext\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "DemoSP_DbContext\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Demo_SP\\DemoSP_DbContext\\AppDBContext.cs",
+              "RelativeToolTip": "DemoSP_DbContext\\AppDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:16:10.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Demo_SP\\DemoSP_DbContext\\DBContext.cs",
+              "RelativeDocumentMoniker": "DemoSP_DbContext\\DBContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Demo_SP\\DemoSP_DbContext\\DBContext.cs",
+              "RelativeToolTip": "DemoSP_DbContext\\DBContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAApwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:11:00.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Demo_SP\\DemoSP_DbContext\\Interface\\IDBContext.cs",
+              "RelativeDocumentMoniker": "DemoSP_DbContext\\Interface\\IDBContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Demo_SP\\DemoSP_DbContext\\Interface\\IDBContext.cs",
+              "RelativeToolTip": "DemoSP_DbContext\\Interface\\IDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:08:54.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Demo_SP\\Demo_SP\\Program.cs",
+              "RelativeDocumentMoniker": "Demo_SP\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Demo_SP\\Demo_SP\\Program.cs",
+              "RelativeToolTip": "Demo_SP\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwCIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:59:01.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DapperRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Demo_SP\\DemoDP_Repository\\DapperRepository.cs",
+              "RelativeDocumentMoniker": "DemoDP_Repository\\DapperRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Demo_SP\\DemoDP_Repository\\DapperRepository.cs",
+              "RelativeToolTip": "DemoDP_Repository\\DapperRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:53:47.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDapperRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Demo_SP\\DemoDP_Repository\\IRepository\\IDapperRepository.cs",
+              "RelativeDocumentMoniker": "DemoDP_Repository\\IRepository\\IDapperRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Demo_SP\\DemoDP_Repository\\IRepository\\IDapperRepository.cs",
+              "RelativeToolTip": "DemoDP_Repository\\IRepository\\IDapperRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:52:46.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Demo_SP\\DemoDP_Repository\\EmpRepository.cs",
+              "RelativeDocumentMoniker": "DemoDP_Repository\\EmpRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Demo_SP\\DemoDP_Repository\\EmpRepository.cs",
+              "RelativeToolTip": "DemoDP_Repository\\EmpRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAkwBUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:44:26.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEmpRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Demo_SP\\DemoDP_Repository\\IRepository\\IEmpRepository.cs",
+              "RelativeDocumentMoniker": "DemoDP_Repository\\IRepository\\IEmpRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Demo_SP\\DemoDP_Repository\\IRepository\\IEmpRepository.cs",
+              "RelativeToolTip": "DemoDP_Repository\\IRepository\\IEmpRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:42:52.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpDataService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Demo_SP\\DemoSP_DataService\\EmpDataService.cs",
+              "RelativeDocumentMoniker": "DemoSP_DataService\\EmpDataService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Demo_SP\\DemoSP_DataService\\EmpDataService.cs",
+              "RelativeToolTip": "DemoSP_DataService\\EmpDataService.cs",
+              "ViewState": "AQIAABQAAAAAmZmZmZktwBAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:39:59.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmpDataService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Demo_SP\\DemoSP_DataService\\Interface\\IEmpDataService.cs",
+              "RelativeDocumentMoniker": "DemoSP_DataService\\Interface\\IEmpDataService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Demo_SP\\DemoSP_DataService\\Interface\\IEmpDataService.cs",
+              "RelativeToolTip": "DemoSP_DataService\\Interface\\IEmpDataService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:12:41.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Demo_SP\\Demo_SP\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "Demo_SP\\Controllers\\EmpController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Demo_SP\\Demo_SP\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "Demo_SP\\Controllers\\EmpController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:05:18.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
